@@ -62,7 +62,7 @@ headers_verify = {
 payload_verify_1 = {
     "telegram_id": telegram_id,
     "task": "Subscribe to Pandas channel",
-    "reward": 1000,
+    "reward": 1000000,
     "username": username
 }
 
